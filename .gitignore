@@ -1,1 +1,6 @@
-/.DS_Store
+*
+!*.c
+!*.ipynb
+!*.txt
+!*.csv
+!*.png
