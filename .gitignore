@@ -1,6 +1,4 @@
 *
 !*.c
 !*.ipynb
-!*.txt
 !*.csv
-!*.png
